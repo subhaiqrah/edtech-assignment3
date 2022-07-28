@@ -8,6 +8,17 @@ p{
 h5{
     color: rgb(236, 141, 8);
 }
-.fade-in-image{
-    opacity: 50%;
+.reg-bg-info{
+    color:rgb(86, 86, 123);
+    background-color: rgb(252, 209, 216);
+}
+.reg-btn-primary{
+    color: rgb(252, 209, 216) ;
+    
+    background-image: linear-gradient(to bottom,rgb(86, 86, 123), white );
+   
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+
 }
