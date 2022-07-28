@@ -21,7 +21,17 @@ h5{
 .reg-btn-primary{
     color: rgb(252, 209, 216) ;
     font-weight: 400;
-    background-image: linear-gradient(to bottom,rgb(86, 86, 123), white );
+    background-image: linear-gradient(to bottom,rgb(86, 86, 123),white );
+    border: 2px;
+    border-radius: 8px;
+    padding: 9px 25px;
+
+}
+
+.reg-btn-form{
+    color: rgb(252, 209, 216) ;
+    font-weight: 400;
+    background-image: linear-gradient(to bottom,rgb(86, 86, 123),  rgb(38, 38, 52)  );
     border: 2px;
     border-radius: 8px;
     padding: 9px 25px;
