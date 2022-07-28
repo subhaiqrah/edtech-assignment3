@@ -8,16 +8,21 @@ p{
 h5{
     color: rgb(236, 141, 8);
 }
+.caption{
+    color: white;
+}
 .reg-bg-info{
     color:rgb(86, 86, 123);
     background-color: rgb(252, 209, 216);
 }
+.reg-bg-blue{
+    background-color:rgb(86, 86, 123);
+}
 .reg-btn-primary{
     color: rgb(252, 209, 216) ;
-    
+    font-weight: 400;
     background-image: linear-gradient(to bottom,rgb(86, 86, 123), white );
-   
-    border: none;
+    border: 2px;
     border-radius: 8px;
     padding: 9px 25px;
 
